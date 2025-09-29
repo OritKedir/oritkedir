@@ -6,9 +6,9 @@
 I specialize in data analysis, statistical modeling, and economic research using R, Excel, and network analysis tools.
 
 ## 🔧 Technical Skills
-- **Programming**: R, SQL
-- **Tools**: Excel, Gephi, GitHub
-- **Analysis**: Statistical Modeling, Network Analysis, Data Visualization
+- **Programming**: R, python
+- **Tools**: Excel, Gephi, 
+- **Analysis**: Statistical Modeling, Network Analysis, Data Visualization, predictive models, associasion rules
 - **Methods**: Regression, Classification, Supply-Demand Modeling
 
 ## 📫 Let's Connect
